@@ -1,0 +1,16 @@
+{
+    "id": "Ftack Of Flint",
+    "name": "stack of flint",
+    "version": ">=1.8",
+    "src_category": "mcce#Obtain_Item",
+    "conditions": [
+        [
+            {
+                "type": "obtain_item",
+                "name": "Ftack Of Flint",
+                "item_id": "minecraft:flint",
+                "item_amount": 64
+            }
+        ]
+    ]
+}
